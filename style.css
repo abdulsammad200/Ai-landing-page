@@ -1,0 +1,258 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+.firstsec {
+  background-image: url(https://img.freepik.com/free-photo/humanoid-robot-working-with-machine-factory-ai-generative_123827-23863.jpg?w=996&t=st=1706555127~exp=1706555727~hmac=b1cad1b311d04b59dd90d30494ddee07dfbd40107d25394e4142fc3e80a9e4e3);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+}
+.navbar {
+  height: 70px;
+  width: 100%;
+  /* background-color: rgb(234, 0, 0); */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+}
+.navlist {
+  list-style: none;
+  display: flex;
+}
+ul > li {
+  margin-left: 40px;
+}
+.home {
+  color: rgb(255, 136, 0);
+}
+.fa-globe {
+  font-size: 30px;
+}
+.display1 {
+  display: flex;
+  height: 50px;
+  width: 200px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.btn1 {
+  background-color: rgb(255, 111, 0);
+  border: none;
+  height: 30px;
+  width: 80px;
+  border-radius: 20px;
+  color: white;
+}
+.btn1:hover {
+  cursor: pointer;
+  background-color: rgb(244, 143, 28);
+  transform: scale(1.1);
+  font-size: 15px;
+}
+.line {
+  background-color: gray;
+  height: 2px;
+  width: 100%;
+}
+.rightside {
+  height: 500px;
+  width: 30%;
+  /* border: 1px solid black; */
+  position: absolute;
+  left: 15%;
+  top: 30%;
+}
+.Ai {
+  color: rgb(255, 136, 0);
+}
+.next {
+  color: white;
+  font-size: 70px;
+}
+.Machine {
+  color: white;
+  font-size: 70px;
+  margin-top: 20px;
+}
+.intelligence {
+  font-size: 70px;
+  color: white;
+  margin-top: 20px;
+}
+.btn2 {
+  background-color: rgb(255, 111, 0);
+  border: none;
+  height: 45px;
+  width: 120px;
+  border-radius: 30px;
+  color: white;
+  margin-top: 50px;
+}
+.btn2:hover {
+  cursor: pointer;
+  background-color: rgb(244, 143, 28);
+  transform: scale(1.1);
+  font-size: 15px;
+}
+.leftside {
+  height: 50px;
+  width: 20%;
+  border: 2px solid white;
+  position: absolute;
+  right: 30%;
+  top: 50%;
+  text-align: center;
+  rotate: 90deg;
+}
+.ARTIFICAL {
+  color: black;
+  letter-spacing: 5px;
+  padding-top: 12px;
+}
+.secondsec {
+  height: 1500px;
+  width: 100%;
+  background-color: #06071b;
+}
+.box1 {
+  height: 450px;
+  width: 80%;
+  margin: auto;
+  background-color: #06071b;
+  border-radius: 15px;
+  position: relative;
+  bottom: 7%;
+  border: 2px solid white;
+}
+.box2 {
+  height: 400px;
+  width: 50%;
+  /* border: 1px solid green; */
+  position: relative;
+  top: 10%;
+  left: 19%;
+}
+.box3 {
+  height: 200px;
+  width: 300px;
+  /* border: 1px solid red; */
+  border-radius: 10px;
+  position: relative;
+  left: 73%;
+  bottom: 35%;
+  background-image: url(https://img.freepik.com/free-photo/blue-cyborg-toy-dances-with-futuristic-joy-generated-by-ai_188544-31772.jpg?t=st=1706556680~exp=1706560280~hmac=74a1ce57d0b7b62f886df021207c71fefcd31e723f2793cd18b18e629c734dc8&w=1060);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 3px 3px 20px black;
+
+}
+.who {
+  color: rgb(255, 136, 0);
+  padding-left: 40%;
+}
+.we {
+  color: white;
+  padding-left: 20%;
+  padding-top: 20px;
+}
+.lorem {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+.box5 {
+  height: 100px;
+  width: 250px;
+  /* border: 1px solid green; */
+  margin-top: 50px;
+}
+.box6 {
+  height: 100px;
+  width: 250px;
+  /* border: 1px solid green; */
+  margin-top: 50px;
+}
+.display2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.fa-rocket {
+  color: rgb(255, 111, 0);
+  font-size: 70px;
+}
+.lorem2 {
+  color: white;
+  position: relative;
+  left: 85px;
+  bottom: 70px;
+}
+.lorem3 {
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  position: relative;
+  left: 45px;
+  bottom: 50px;
+}
+.fa-lightbulb {
+  color: rgb(255, 111, 0);
+  font-size: 70px;
+}
+.box7 {
+  height: 450px;
+  width: 35%;
+  /* border: 1px solid green; */
+  margin-top: 50px;
+  border-radius: 20px;
+  box-shadow: 3px 3px 20px black;
+  background-image: url(https://img.freepik.com/free-photo/futuristic-robot-sparkling-lights-backgrounds_1268-29364.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.display3 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.box8 {
+  height: 450px;
+  width: 35%;
+  /* border: 1px solid green; */
+  margin-top: 50px;
+}
+.lorem4{
+    color: rgb(255, 136, 0);
+}
+.Ai2{
+    color: white;
+   padding-top: 20px;
+}
+.lorem5{
+    color: white;
+    padding-top: 20px;
+
+}
+.Upcoming{
+  color: white;
+  font-size: 30px ;
+  text-align: center;
+  padding-top: 10%;
+}
+.display4 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.box9{
+  height: 200px;
+  width: 20%;
+  border: 1px solid rgb(255, 0, 0);
+}
