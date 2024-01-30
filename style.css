@@ -256,7 +256,7 @@ ul > li {
   border: 1px solid rgb(255, 255, 255);
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-image: url(https://img.freepik.com/free-photo/robot-carrying-wheelbarrow_1048-3541.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-image: url(https://img.freepik.com/premium-photo/character-design-little-cute-robot-isolated-background-created-with-generative-ai-technology_67092-5292.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -268,7 +268,7 @@ ul > li {
   border: 1px solid rgb(255, 255, 255);
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-image: url(https://img.freepik.com/free-photo/robot-carrying-wheelbarrow_1048-3541.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-image: url(https://img.freepik.com/premium-photo/robot-cyborg-development-future-3d-render-isolated-white-background_325164-953.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -280,7 +280,7 @@ ul > li {
   border: 1px solid rgb(255, 255, 255);
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
-  background-image: url(https://img.freepik.com/free-photo/robot-carrying-wheelbarrow_1048-3541.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-image: url(https://img.freepik.com/free-photo/view-graphic-3d-robot_23-2150849173.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -350,4 +350,171 @@ ul > li {
   top: 20%;
   border-radius: 20px;
 }
-
+.box16 {
+  height: 520px;
+  width: 35%;
+  /* border: 1px solid white; */
+  border-radius: 20px;
+  position: relative;
+  left: -8%;
+  bottom: 85%;
+  background-image: url(https://img.freepik.com/free-photo/hightech-helmets-humanoid-being-generative-ai_8829-2879.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 1px 1px 10px rgb(0, 0, 0);
+}
+.lorem7 {
+  color: white;
+  font-size: 20px;
+  padding-left: 40%;
+  padding-top: 5%;
+}
+.lorem8 {
+  color: white;
+  font-size: 35px;
+  text-align: center;
+}
+.btn3 {
+  background-color: rgb(255, 111, 0);
+  border: 1px solid white;
+  height: 50px;
+  width: 170px;
+  border-radius: 30px;
+  color: white;
+  margin-top: 50px;
+  margin-left: 40%;
+}
+.btn3:hover {
+  cursor: pointer;
+  background-color: rgb(244, 143, 28);
+  transform: scale(1.1);
+  font-size: 18px;
+}
+.fourthsec {
+  height: 750px;
+  width: 100%;
+  background-color: #06071b;
+}
+.box17 {
+  height: 700px;
+  width: 60%;
+  /* border: 1px solid white; */
+  margin: auto;
+}
+.Frequent {
+  color: white;
+  font-size: 50px;
+  padding-left: 20%;
+  padding-top: 5%;
+}
+.lorem9 {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10px;
+}
+.how {
+  color: white;
+  padding-top: 5%;
+  font-size: 25px;
+  padding-left: 30px;
+}
+.how2 {
+  color: white;
+  padding-top: 5%;
+  font-size: 15px;
+  padding-left: 30px;
+}
+.fifthsec {
+  height: 1150px;
+  width: 100%;
+  background-color: #0d0921;
+}
+.lorem10 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 5%;
+}
+.lorem11 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 3%;
+}
+.box18 {
+  height: 600px;
+  width: 60%;
+  border: 1px solid rgb(255, 255, 255);
+  margin: auto;
+  margin-top: 5%;
+  background-image: url(https://img.freepik.com/premium-photo/robot-humanoid-use-laptop-sit-table-big-data-analytic_31965-9305.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fa-circle-play {
+  color: orange;
+  font-size: 80px;
+  padding-left: 43%;
+  padding-top: 30%;
+}
+.sixsec {
+  height: 600px;
+  width: 100%;
+  background-color: #06071b;
+}
+.box19 {
+  height: 2px;
+  width: 100%;
+  background-color: gray;
+}
+.display7 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.box20 {
+  height: 300px;
+  width: 15%;
+  /* border: 1px solid white; */
+  margin-top: 10%;
+  color: white;
+}
+.box21 {
+  height: 300px;
+  width: 22%;
+  background-color: #0e0922;
+  margin-top: 10%;
+}
+.lorem14 {
+  padding-top: 20px;
+}
+.Subscribe2 {
+  color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.input2 {
+  outline: none;
+  border: 1px solid white;
+  height: 35px;
+  width: 200px;
+  background-color: #0e0922;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.btn4 {
+  height: 38px;
+  width: 40px;
+  margin-left: -5px;
+  background-color: orange;
+  border: none;
+  color: white;
+}
+.lorem15 {
+  color: white;
+  padding-left: 20px;
+  padding-top: 15px;
+  font-size: 15px;
+}
