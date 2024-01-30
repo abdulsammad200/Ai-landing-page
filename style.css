@@ -118,7 +118,7 @@ ul > li {
   padding-top: 12px;
 }
 .secondsec {
-  height: 1500px;
+  height: 1900px;
   width: 100%;
   background-color: #06071b;
 }
@@ -153,7 +153,6 @@ ul > li {
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 3px 3px 20px black;
-
 }
 .who {
   color: rgb(255, 136, 0);
@@ -229,30 +228,126 @@ ul > li {
   /* border: 1px solid green; */
   margin-top: 50px;
 }
-.lorem4{
-    color: rgb(255, 136, 0);
+.lorem4 {
+  color: rgb(255, 136, 0);
 }
-.Ai2{
-    color: white;
-   padding-top: 20px;
-}
-.lorem5{
-    color: white;
-    padding-top: 20px;
-
-}
-.Upcoming{
+.Ai2 {
   color: white;
-  font-size: 30px ;
+  padding-top: 20px;
+}
+.lorem5 {
+  color: white;
+  padding-top: 20px;
+}
+.Upcoming {
+  color: white;
+  font-size: 30px;
   text-align: center;
   padding-top: 10%;
 }
 .display4 {
   display: flex;
   justify-content: space-evenly;
+  margin-top: 7%;
 }
-.box9{
-  height: 200px;
+.box9 {
+  height: 350px;
   width: 20%;
-  border: 1px solid rgb(255, 0, 0);
+  border: 1px solid rgb(255, 255, 255);
+  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  background-image: url(https://img.freepik.com/free-photo/robot-carrying-wheelbarrow_1048-3541.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 1px 1px 10px white;
 }
+.box10 {
+  height: 350px;
+  width: 20%;
+  border: 1px solid rgb(255, 255, 255);
+  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  background-image: url(https://img.freepik.com/free-photo/robot-carrying-wheelbarrow_1048-3541.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 1px 1px 10px white;
+}
+.box11 {
+  height: 350px;
+  width: 20%;
+  border: 1px solid rgb(255, 255, 255);
+  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  background-image: url(https://img.freepik.com/free-photo/robot-carrying-wheelbarrow_1048-3541.jpg?size=626&ext=jpg&ga=GA1.1.1296881505.1706300643&semt=sph);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 1px 1px 10px white;
+}
+.display5 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.box12 {
+  height: 130px;
+  width: 297px;
+  border: 5px solid #ff7000;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 1px 1px 10px white;
+}
+.box13 {
+  height: 130px;
+  width: 297px;
+  border: 5px solid #ff7000;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 1px 1px 10px white;
+}
+.box14 {
+  height: 130px;
+  width: 297px;
+  border: 5px solid #ff7000;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: 1px 1px 10px white;
+}
+.APR {
+  color: #ff7000;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.number {
+  color: white;
+  padding-left: 15px;
+}
+.lorem6 {
+  color: white;
+  position: relative;
+  left: 65px;
+  bottom: 65px;
+}
+.We2 {
+  color: white;
+  position: relative;
+  left: 70px;
+  bottom: 55px;
+  font-size: 12px;
+}
+.thirdsec {
+  height: 600px;
+  width: 100%;
+  background-color: #181234;
+}
+.box15 {
+  height: 400px;
+  width: 80%;
+  background-color: #3f1f55;
+  margin: auto;
+  position: relative;
+  top: 20%;
+  border-radius: 20px;
+}
+
